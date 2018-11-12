@@ -1,0 +1,233 @@
+{
+  "name": {
+    "eng": "Yunhwan Na",
+    "kor": "나윤환"
+  },
+  "bio": "Artistic Programmer",
+  "sns": {
+    "facebook": "https://fb.com/nayunhwan",
+    "instagram": "https://instagram.com/nayunhwan",
+    "github": "https://github.com/nayunhwan",
+    "linkedin": "https://linkedin.com/in/nayunhwan",
+    "rocketpunch": "https://rocketpunch.com/@nayunhwan",
+    "twitter": "https://twitter.com/nayunhwan"
+  },
+  "email": "nayunhwan.dev@gmail.com",
+  "education": [
+    {
+      "name": "Hanyang University, ERICA",
+      "url": "https://hanyang.ac.kr",
+      "location": "South Korea",
+      "major": [
+        "B.S. Computer Science and Engineering (Major)",
+        "B.S. Design Engineering (Minor)"
+      ],
+      "start_date": "Mar, 2014",
+      "end_date": "Present",
+      "image": "https://media.licdn.com/dms/image/C560BAQFC2NzK_ROPJg/company-logo_400_400/0?e=1541635200&v=beta&t=pzRPKoce_rhmMxG3i9Uab1o6gFNtFxABryTk-543TgI"
+    },
+    {
+      "name": "James Cook University, Brisbane",
+      "url": "https://www.jcub.edu.au/",
+      "location": "Australia",
+      "major": ["Language Training Course (English)"],
+      "start_date": "Jun, 2016",
+      "end_date": "Aug, 2016",
+      "image": "https://media.licdn.com/dms/image/C510BAQEtTJx3BDtEVA/company-logo_400_400/0?e=1541635200&v=beta&t=R8zan23ZsmtxpxdtMm_s-67KmW24ObzSYD7tbIUPqWo"
+    }
+  ],
+  "experience": [
+    {
+      "name": "NAVER LABS Corp.",
+      "url": "https://naverlabs.com",
+      "location": "Seongnam, South Korea",
+      "start_date": "Jun, 2018",
+      "end_date": "Present",
+      "role": "Front-End Engineering Intern",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
+    },
+    {
+      "name": "Exitsoft",
+      "url": "https://exitsoft.kr",
+      "location": "Ansan, South Korea",
+      "start_date": "Apr, 2012",
+      "end_date": "Present",
+      "role": "Founder & CTO",
+      "image": "https://media.licdn.com/dms/image/C4E0BAQHqMd6Avi8kCQ/company-logo_400_400/0?e=1541635200&v=beta&t=oSoO19fzlTn-OdCXdZeyAYblO5Th-bzeqWXtqMrNI0c"
+    },
+    {
+      "name": "Vingle",
+      "url": "https://vingle.net",
+      "location": "Seoul, South Korea",
+      "start_date": "Dec, 2017",
+      "end_date": "Feb, 2018",
+      "role": "Front-End Engineering Intern",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQEWBsTMvJxf7A/company-logo_400_400/0?e=1541635200&v=beta&t=8b-5VBz_JBD8pp5hbmfOjeCIJuU9yROGRndDzvOWmFk"
+    },
+    {
+      "name": "Elice",
+      "url": "https://elice.io",
+      "location": "Seoul, South Korea",
+      "start_date": "Jun, 2017",
+      "end_date": "Aug, 2017",
+      "role": "Front-End Engineering Intern",
+      "image": "https://media.licdn.com/dms/image/C4E0BAQFJ1oX4GlgFug/company-logo_400_400/0?e=1541635200&v=beta&t=NxrWz94kQjEzxaM9SU3u9wpBrOKkdvxwa1ZfipkK9Xg"
+    },
+    {
+      "name": "Additor",
+      "url": "https://additor.io",
+      "location": "Seoul, South Korea",
+      "start_date": "Dec, 2016",
+      "end_date": "Feb, 2017",
+      "role": "Front-End Engineering Intern",
+      "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
+    },
+    {
+      "name": "Sarina Russo Institute",
+      "url": "https://www.sri.edu.au/",
+      "location": "Brisbane, Australia",
+      "start_date": "Jul, 2016",
+      "end_date": "Jul, 2016",
+      "role": "Foreign Student Intern",
+      "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
+    }
+  ],
+  "community": [
+    {
+      "name": "Yapp",
+      "url": "http://yapp.co.kr",
+      "location": "Seoul, South Korea",
+      "start_date": "Jul, 2018",
+      "end_date": "Present",
+      "role": "Front-End Engineer",
+      "image": "https://avatars1.githubusercontent.com/u/41913611?s=400&u=a79c905dfdc6984ab6e9fb8363dbdd9dcfc03d7a&v=4"
+    },
+    {
+      "name": "LionLab in Hanyang University",
+      "url": "#",
+      "location": "Seoul, South Korea",
+      "start_date": "Mar, 2017",
+      "end_date": "Dec, 2017",
+      "role": "Front-End Engineer",
+      "image": "https://avatars0.githubusercontent.com/u/25068734?s=400&u=f8594dbee979d8120a946061ded8614bb6e9f8ed&v=4"
+    },
+    {
+      "name": "Microsoft Student Partners",
+      "url": "https://msdn.microsoft.com/ko-kr/microsoftstudentpartners.aspx",
+      "location": "Seoul, South Korea",
+      "start_date": "Sep, 2016",
+      "end_date": "Jul, 2017",
+      "role": "Korea region Lead",
+      "image": "https://avatars0.githubusercontent.com/u/25068734?s=400&u=f8594dbee979d8120a946061ded8614bb6e9f8ed&v=4"
+    },
+    {
+      "name": "Samsung Software Membership",
+      "url": "http://secmem.org",
+      "location": "Suwon, South Korea",
+      "start_date": "Jul, 2015",
+      "end_date": "Nov, 2016",
+      "role": "Software Engineer",
+      "image": "https://avatars0.githubusercontent.com/u/16572601?s=400&u=4d6a46a413b7c599e6fa267ed6703f53e04391d7&v=4"
+    },
+    {
+      "name": "Hanyang Advanced Class Students (HACS)",
+      "url": "http://fb.com/hacs2011",
+      "location": "Seoul & Ansan, South Korea",
+      "start_date": "Mar, 2014",
+      "end_date": "Dec, 2017",
+      "role": "The 6th President of Circle",
+      "image": "https://avatars0.githubusercontent.com/u/16572601?s=400&u=4d6a46a413b7c599e6fa267ed6703f53e04391d7&v=4"
+    },
+    {
+      "name": "Google Developer Group - Chenonan & Asan",
+      "url": "https://developers.google.com/programs/community/gdg/",
+      "location": "Cheonan, South Korea",
+      "start_date": "Jan, 2014",
+      "end_date": "Dec, 2014",
+      "role": "Organizer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJdM7vdLjn4uRWHj1ZU__Hvt2cvmRtbELCgDNAn0Bt63Wh7Kq"
+    }
+  ],
+  "awards": [
+    {
+      "name": "HACKDAY Outstanding participants",
+      "organization": "NAVER Corp.",
+      "year": "2018"
+    },
+    {
+      "name": "Software Graduation Piece Contetst Golden Prize",
+      "organization": "Hanyang University, ERICA",
+      "year": "2018"
+    },
+    {
+      "name": "Software Algorithm Programming Contest (HEPC) 3rd Prize",
+      "organization": "Hanyang University, ERICA",
+      "year": "2017"
+    },
+    {
+      "name": "Portfolio Contest Bronze Prize",
+      "organization": "Hanyang University, ERICA",
+      "year": "2017"
+    },
+    {
+      "name": "Software Contest 2nd Prize (IDEA part)",
+      "organization": "Hanyang University, ERICA",
+      "year": "2014"
+    },
+    {
+      "name": "Software Challenge Camp 2nd Prize",
+      "organization": "Samsung Electronics",
+      "year": "2014"
+    }
+  ],
+  "honors": [
+    {
+      "name": "Student of Software Maven School at Hanyang (SMaSH)",
+      "organization": "Hanyang University, ERICA",
+      "year": "2016"
+    },
+    {
+      "name": "The 75 young stars in Hanyang people",
+      "organization": "Hanyang University",
+      "year": "2014"
+    },
+    {
+      "name": "The best Hanyang people on a week",
+      "organization": "Hanyang University",
+      "year": "2014"
+    }
+  ],
+  "scholarship": [
+    {
+      "name": "Electronic Information Communication Alumni",
+      "organization": "Hanyang University",
+      "date": "Jun, 2017"
+    }
+  ],
+  "media_reports": [
+    {
+      "title": "한양브랜드서포터즈, 75인의 영스타 명단 발표",
+      "url": "http://www.hanyang.ac.kr/surl/VcOB",
+      "date": "Dec, 2014",
+      "organization": "Hanyang University"
+    },
+    {
+      "title": "ERICA 셔틀버스 시간확인 어플이 있다?!",
+      "url": "http://www.hanyang.ac.kr/surl/ZluB",
+      "date": "Sep, 2014",
+      "organization": "Hanyang University"
+    },
+    {
+      "title": "내 꿈을 개발하다",
+      "url": "http://www.hanyang.ac.kr/surl/VYXC",
+      "date": "Sep, 2014",
+      "organization": "Hanyang University"
+    },
+    {
+      "title": "한양대생이 만든 맥도날드 배달앱, 인기앱 등극",
+      "url": "http://www.hanyang.ac.kr/surl/EmuB",
+      "date": "Aug, 2014",
+      "organization": "Hanyang University"
+    }
+  ]
+}
