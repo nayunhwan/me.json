@@ -38,11 +38,29 @@
   ],
   "experience": [
     {
+      "name": "SendBird, Inc",
+      "url": "https://sendbird.com",
+      "location": "Seoul, South Korea",
+      "start_date": "Apr, 2019",
+      "end_date": "Present",
+      "role": "Front-end Engineer",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
+    },
+    {
+      "name": "NAVER LABS Corp.",
+      "url": "https://naverlabs.com",
+      "location": "Seongnam, South Korea",
+      "start_date": "Jan, 2019",
+      "end_date": "Mar, 2019",
+      "role": "Front-End Engineer (Temporary)",
+      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
+    },
+    {
       "name": "NAVER LABS Corp.",
       "url": "https://naverlabs.com",
       "location": "Seongnam, South Korea",
       "start_date": "Jun, 2018",
-      "end_date": "Present",
+      "end_date": "Dec, 2018",
       "role": "Front-End Engineering Intern",
       "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
     },
