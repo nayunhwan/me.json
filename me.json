@@ -94,11 +94,20 @@
   ],
   "community": [
     {
+      "name": "Nexters",
+      "url": "http://teamnexters.com",
+      "location": "Seoul, South Korea",
+      "start_date": "Jan, 2019",
+      "end_date": "May, 2019",
+      "role": "Front-End Engineer",
+      "image": "#"
+    },
+    {
       "name": "Yapp",
       "url": "http://yapp.co.kr",
       "location": "Seoul, South Korea",
       "start_date": "Jul, 2018",
-      "end_date": "Present",
+      "end_date": "Dec, 2018",
       "role": "Front-End Engineer",
       "image": "https://avatars1.githubusercontent.com/u/41913611?s=400&u=a79c905dfdc6984ab6e9fb8363dbdd9dcfc03d7a&v=4"
     },
