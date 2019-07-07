@@ -13,7 +13,7 @@
     "twitter": "https://twitter.com/nayunhwan"
   },
   "email": "nayunhwan.dev@gmail.com",
-  "education": [
+  "educations": [
     {
       "name": "Hanyang University, ERICA",
       "url": "https://hanyang.ac.kr",
@@ -36,7 +36,7 @@
       "image": "https://media.licdn.com/dms/image/C510BAQEtTJx3BDtEVA/company-logo_400_400/0?e=1541635200&v=beta&t=R8zan23ZsmtxpxdtMm_s-67KmW24ObzSYD7tbIUPqWo"
     }
   ],
-  "experience": [
+  "experiences": [
     {
       "name": "SendBird, Inc",
       "url": "https://sendbird.com",
@@ -110,7 +110,7 @@
       "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
     }
   ],
-  "community": [
+  "communities": [
     {
       "name": "Nexters",
       "url": "http://teamnexters.com",
@@ -236,7 +236,7 @@
       "date": "Jun, 2017"
     }
   ],
-  "media_reports": [
+  "mediaReports": [
     {
       "title": "한양브랜드서포터즈, 75인의 영스타 명단 발표",
       "url": "http://www.hanyang.ac.kr/surl/VcOB",
