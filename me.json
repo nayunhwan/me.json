@@ -1,7 +1,13 @@
 {
   "name": {
-    "eng": "Yunhwan Na",
-    "kor": "나윤환"
+    "eng": {
+      "first": "Yunhwan",
+      "last": "Na"
+    },
+    "kor": {
+      "first": "윤환",
+      "last": "나"
+    }
   },
   "bio": "Artistic Programmer",
   "sns": {
