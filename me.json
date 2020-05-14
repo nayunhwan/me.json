@@ -53,10 +53,10 @@
         {
           "start_date": "Apr, 2019",
           "end_date": "Present",
-          "role": "Front-end Engineer"
+          "role": "Front-End Engineer"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
+      "image": "https://nayunhwan.github.io/whoami/images/sendbird.png"
     },
     {
       "name": "NAVER LABS Corp.",
@@ -74,7 +74,7 @@
           "role": "Front-End Engineering Intern"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
+      "image": "https://nayunhwan.github.io/whoami/images/naverlabs.png"
     },
     {
       "name": "exitsoft",
@@ -87,7 +87,7 @@
           "role": "Organizer"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4E0BAQHqMd6Avi8kCQ/company-logo_400_400/0?e=1541635200&v=beta&t=oSoO19fzlTn-OdCXdZeyAYblO5Th-bzeqWXtqMrNI0c"
+      "image": "https://nayunhwan.github.io/whoami/images/exitsoft.jpg"
     },
     {
       "name": "Vingle",
@@ -100,10 +100,10 @@
           "role": "Front-End Engineering Intern"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4D0BAQEWBsTMvJxf7A/company-logo_400_400/0?e=1541635200&v=beta&t=8b-5VBz_JBD8pp5hbmfOjeCIJuU9yROGRndDzvOWmFk"
+      "image": "https://nayunhwan.github.io/whoami/images/vingle.png"
     },
     {
-      "name": "Elice",
+      "name": "elice",
       "url": "https://elice.io",
       "location": "Seoul, South Korea",
       "histories": [
@@ -113,7 +113,7 @@
           "role": "Front-End Engineering Intern"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4E0BAQFJ1oX4GlgFug/company-logo_400_400/0?e=1541635200&v=beta&t=NxrWz94kQjEzxaM9SU3u9wpBrOKkdvxwa1ZfipkK9Xg"
+      "image": "https://nayunhwan.github.io/whoami/images/elice.png"
     },
     {
       "name": "Additor",
@@ -126,7 +126,7 @@
           "role": "Front-End Engineering Intern"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
+      "image": "https://nayunhwan.github.io/whoami/images/additor.png"
     },
     {
       "name": "Sarina Russo Institute",
@@ -139,7 +139,7 @@
           "role": "Foreign Student Intern"
         }
       ],
-      "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
+      "image": "https://nayunhwan.github.io/whoami/images/sarina_russo_institute.png"
     }
   ],
   "communities": [
