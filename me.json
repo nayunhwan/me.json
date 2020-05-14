@@ -49,72 +49,96 @@
       "name": "SendBird, Inc",
       "url": "https://sendbird.com",
       "location": "Seoul, South Korea",
-      "start_date": "Apr, 2019",
-      "end_date": "Present",
-      "role": "Front-end Engineer",
+      "histories": [
+        {
+          "start_date": "Apr, 2019",
+          "end_date": "Present",
+          "role": "Front-end Engineer"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
     },
     {
       "name": "NAVER LABS Corp.",
       "url": "https://naverlabs.com",
       "location": "Seongnam, South Korea",
-      "start_date": "Jan, 2019",
-      "end_date": "Mar, 2019",
-      "role": "Front-End Engineer (Contract)",
-      "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
-    },
-    {
-      "name": "NAVER LABS Corp.",
-      "url": "https://naverlabs.com",
-      "location": "Seongnam, South Korea",
-      "start_date": "Jun, 2018",
-      "end_date": "Dec, 2018",
-      "role": "Front-End Engineering Intern",
+      "histories": [
+        {
+          "start_date": "Jan, 2019",
+          "end_date": "Mar, 2019",
+          "role": "Front-End Engineer (Contract)"
+        },
+        {
+          "start_date": "Jun, 2018",
+          "end_date": "Dec, 2018",
+          "role": "Front-End Engineering Intern"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4D0BAQGGUtCkRyFB7w/company-logo_400_400/0?e=1541635200&v=beta&t=7ftkxP158VwF4NSHz4EI72g9dVbIz9eR7oKvl8yCjSs"
     },
     {
       "name": "Exitsoft",
       "url": "https://exitsoft.kr",
       "location": "Ansan, South Korea",
-      "start_date": "Apr, 2012",
-      "end_date": "Present",
-      "role": "Founder & CTO",
+      "histories": [
+        {
+          "start_date": "Apr, 2012",
+          "end_date": "Present",
+          "role": "Organizer"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4E0BAQHqMd6Avi8kCQ/company-logo_400_400/0?e=1541635200&v=beta&t=oSoO19fzlTn-OdCXdZeyAYblO5Th-bzeqWXtqMrNI0c"
     },
     {
       "name": "Vingle",
       "url": "https://vingle.net",
       "location": "Seoul, South Korea",
-      "start_date": "Dec, 2017",
-      "end_date": "Feb, 2018",
-      "role": "Front-End Engineering Intern",
+      "histories": [
+        {
+          "start_date": "Dec, 2017",
+          "end_date": "Feb, 2018",
+          "role": "Front-End Engineering Intern"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4D0BAQEWBsTMvJxf7A/company-logo_400_400/0?e=1541635200&v=beta&t=8b-5VBz_JBD8pp5hbmfOjeCIJuU9yROGRndDzvOWmFk"
     },
     {
       "name": "Elice",
       "url": "https://elice.io",
       "location": "Seoul, South Korea",
-      "start_date": "Jun, 2017",
-      "end_date": "Aug, 2017",
-      "role": "Front-End Engineering Intern",
+      "histories": [
+        {
+          "start_date": "Jun, 2017",
+          "end_date": "Aug, 2017",
+          "role": "Front-End Engineering Intern"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4E0BAQFJ1oX4GlgFug/company-logo_400_400/0?e=1541635200&v=beta&t=NxrWz94kQjEzxaM9SU3u9wpBrOKkdvxwa1ZfipkK9Xg"
     },
     {
       "name": "Additor",
       "url": "https://additor.io",
       "location": "Seoul, South Korea",
-      "start_date": "Dec, 2016",
-      "end_date": "Feb, 2017",
-      "role": "Front-End Engineering Intern",
+      "histories": [
+        {
+          "start_date": "Dec, 2016",
+          "end_date": "Feb, 2017",
+          "role": "Front-End Engineering Intern"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
     },
     {
       "name": "Sarina Russo Institute",
       "url": "https://www.sri.edu.au/",
       "location": "Brisbane, Australia",
-      "start_date": "Jul, 2016",
-      "end_date": "Jul, 2016",
-      "role": "Foreign Student Intern",
+      "histories": [
+        {
+          "start_date": "Jul, 2016",
+          "end_date": "Jul, 2016",
+          "role": "Foreign Student Intern"
+        }
+      ],
       "image": "https://media.licdn.com/dms/image/C4E0BAQGqSppbvTifpA/company-logo_400_400/0?e=1541635200&v=beta&t=DBgjOQoFc7J5cn1whlLwwa3DfAJhl_6p_HIoEehh_80"
     }
   ],
