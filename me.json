@@ -46,13 +46,26 @@
   ],
   "experiences": [
     {
+      "name": "HAECHI LABS",
+      "url": "https://haechi.io",
+      "location": "Seoul, South Korea",
+      "histories": [
+        {
+          "start_date": "Aug, 2022",
+          "end_date": "Present",
+          "role": "Front-End Engineer"
+        }
+      ],
+      "image": "https://nayunhwan.github.io/whoami/images/sendbird.png"
+    },
+    {
       "name": "Sendbird",
       "url": "https://sendbird.com",
       "location": "Seoul, South Korea",
       "histories": [
         {
           "start_date": "Apr, 2019",
-          "end_date": "Present",
+          "end_date": "Jul, 2022",
           "role": "Front-End Engineer"
         }
       ],
